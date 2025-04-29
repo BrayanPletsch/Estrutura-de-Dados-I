@@ -31,9 +31,3 @@ Calcule e exiba a soma dos elementos de cada linha desta matriz.
 ## 5) Maior elemento da matriz
 Faça um programa com uma matriz 5x5 de inteiros positivos ou negativos (aleatórios e de sua escolha).  
 Encontre e exiba o maior elemento desta matriz.
-
----
-
-## 🔗 Caso queira visualizar diretamente pelo o Google Colab:
-
-👉 [Acesse Aqui!](https://colab.research.google.com/drive/12IiHZd-dfHFRh3N9p_qLlI6y4-pfqqD-?usp=sharing)
