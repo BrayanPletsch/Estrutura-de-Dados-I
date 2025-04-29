@@ -42,7 +42,7 @@ Estrutura-de-Dados-I/
 │   └── ListasOrdenadas/
 │       ├── lista_ordenada.py
 │       └── main.py
-├── Pilhas-Listas-e-Filas/          # Atividades de pilhas (LIFO) e filas (FIFO)
+├── Pilhas-Listas-e-Filas/          # Atividades de pilhas, listas e filas
 │   ├── Atividade1.py
 │   ├── Atividade2.py
 │   ├── Atividade3.py
@@ -54,7 +54,6 @@ Estrutura-de-Dados-I/
 │   ├── Atividade4.py
 │   ├── Atividade5.py
 │   └── README.md
-├── main.py                         # Script de demonstração geral
 ├── requirements.txt                # Lista de bibliotecas necessárias
 └── LICENSE                         # Licença do projeto
 ```
